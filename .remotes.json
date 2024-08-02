@@ -1,0 +1,9 @@
+[
+  {
+    "package": "BPCells",
+    "url": "https://github.com/bnprks/BPCells",
+    "via": ["BPCellsArray"],
+    "subdir": "r",
+    "from": "BPCellsArray"
+  }
+]

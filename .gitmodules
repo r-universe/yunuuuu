@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/yunuuuu/yunuuuu.r-universe.dev
 	branch = HEAD
+[submodule "BPCells"]
+	path = BPCells
+	url = https://github.com/bnprks/BPCells
+	subdir = r
+	registered = false
 [submodule "BPCellsArray"]
 	path = BPCellsArray
 	url = https://github.com/Yunuuuu/BPCellsArray
