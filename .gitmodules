@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/yunuuuu/yunuuuu.r-universe.dev
 	branch = HEAD
+[submodule "BPCellsArray"]
+	path = BPCellsArray
+	url = https://github.com/Yunuuuu/BPCellsArray
 [submodule "ggalign"]
 	path = ggalign
-	url = https://github.com/yunuuuu/ggalign
+	url = https://github.com/Yunuuuu/ggalign
+[submodule "rsahmi"]
+	path = rsahmi
+	url = https://github.com/Yunuuuu/rsahmi
