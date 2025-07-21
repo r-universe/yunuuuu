@@ -13,6 +13,10 @@
 [submodule "ggalign"]
 	path = ggalign
 	url = https://github.com/Yunuuuu/ggalign
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	registered = false
 [submodule "rsahmi"]
 	path = rsahmi
 	url = https://github.com/Yunuuuu/rsahmi
