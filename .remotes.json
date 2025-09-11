@@ -5,11 +5,5 @@
     "via": ["BPCellsArray"],
     "subdir": "r",
     "from": "BPCellsArray"
-  },
-  {
-    "package": "ggplot2",
-    "url": "https://github.com/tidyverse/ggplot2",
-    "via": ["ggalign"],
-    "from": "ggalign"
   }
 ]
